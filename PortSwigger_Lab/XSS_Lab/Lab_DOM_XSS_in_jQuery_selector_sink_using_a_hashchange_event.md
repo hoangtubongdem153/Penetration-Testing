@@ -55,3 +55,5 @@ Như vậy đoạn script đã thực thi, với yêu cầu đề bài thực hi
 
 
 ---
+Ta vẫn có thể sử dụng `iframe` để thay thế!
+
