@@ -1,1 +1,1 @@
-Các bài lab về lỗ hỗng thực thi mã từ xa.
+The Labs about RCE (remote code execution) vulnerability!
