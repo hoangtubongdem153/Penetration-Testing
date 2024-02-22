@@ -1,1 +1,1 @@
-# Writeup_CTF
+# Writeup_Labs
